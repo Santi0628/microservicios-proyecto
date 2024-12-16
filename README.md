@@ -38,7 +38,7 @@ Welcome to the Microservices Architecture Project, developed as part of the Micr
 
 7. **Gateway Service** 🚪  
    - Centralizes incoming requests and routes them to the appropriate microservices.
-   - Built with Fastify in JavaScript for efficient request handling.
+   - Built with Java.
 
 8. **Jenkins Auto-Configuration Package** ⚙️  
    - Automates the execution of BDD tests using Cucumber.js in Jenkins for continuous testing.
